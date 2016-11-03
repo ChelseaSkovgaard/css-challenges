@@ -1,0 +1,47 @@
+body{
+  background: #F8F5F2;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #000B29;
+  font-size: 50px;
+  text-align: center;
+  width: 100%;
+  font-weight: bold;
+  padding: 20px;
+}
+
+.intro {
+  color: #000B29;
+  width: 600px;
+  margin: auto;
+  line-height: 20px;
+  text-align: justify;
+}
+
+h2{
+  color: #D70026;
+  margin: 20px;
+  font-size: 25px;
+}
+
+h3 {
+  color: #EDB83D;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+p {
+  width: 200px;
+}
+
+.code-pen {
+  width: 700px;
+  margin: auto;
+  display: none;
+}
+
+.visible {
+  display: block;
+}
