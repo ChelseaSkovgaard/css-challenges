@@ -6,4 +6,8 @@ $('#translucent-borders').on('click', function(){
 $('#multiple-borders').on('click', function(){
   $('.mb').toggleClass('visible');
 });
+
+$('#flexible-background-positioning').on('click', function(){
+  $('.fbp').toggleClass('visible');
+});
 });
