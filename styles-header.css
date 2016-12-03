@@ -1,0 +1,37 @@
+.header {
+       height: 300px;
+       background-color: #C2185B;
+       width: 100%;
+}
+
+.fixed-header {
+       position: fixed;
+       width: 100%;
+       height: 80px;
+       background-color: #E91E63;
+       box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+       z-index: 1;
+   }
+
+.heading {
+  padding: 100px 10px 14px 10px;
+}
+
+.heading p {
+  margin: auto;
+  width: 500px;
+  color: white;
+  text-align: justify;
+}
+
+.card {
+vertical-align: top;
+ background: #fff;
+ border-radius: 2px;
+ display: inline-block;
+ height: auto;
+ margin: 20px 20px;
+ padding: 20px;
+ position: relative;
+ box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}

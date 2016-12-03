@@ -1,19 +1,18 @@
 body{
-  background: #F8F5F2;
+  background: white;
   font-family: 'Roboto', sans-serif;
 }
 
 h1 {
-  color: #000B29;
-  font-size: 50px;
+  color: white;
+  font-size: 40px;
   text-align: center;
   width: 100%;
-  font-weight: bold;
   padding: 20px;
 }
 
 .intro {
-  color: #000B29;
+  color: #C2185B;
   width: 600px;
   margin: auto;
   line-height: 20px;
@@ -27,13 +26,14 @@ h2{
 }
 
 h3 {
-  color: #EDB83D;
+  color: #212121;
   margin-left: 40px;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
+  display: inline-block;
 }
 
-p {
-  width: 200px;
+h3:hover {
+  color: #E91E63;
 }
 
 .code-pen {
